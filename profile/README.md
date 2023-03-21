@@ -144,16 +144,16 @@ Pattern Identification: Once we have applied the indices, we will use them to id
 
 # Deployment
 ---
-Creation of container images
-The next step is to create container images for each of the subsystems. It must be ensured that the images are compatible with the deployment environment and meet the system requirements. A version control system like Git can be used to manage code and configurations.
+Creation of container images  
+We start creating  container images for each of the subsystems. It must be ensured that the images are compatible with the deployment environment and meet the system requirements. A version control system like Git can be used to manage code and configurations.
 
-Deployment of containers
+Deployment of containers  
 Once container images have been created, they must be deployed. We will use  Docker Compose for  deployment. It must be ensured that the containers are deployed correctly and running optimally.
 
-System configuration and testing
+System configuration and testing  
 After the containers have been deployed correctly, the system must be configured. This may include configuring databases, web pages, and connections between subsystems. Tests must be performed to ensure that everything is working correctly, and the system is ready to use.
 
-Monitoring and maintenance of the system
+Monitoring and maintenance of the system  
 Once the system is in production, it must be ensured that it remains up-to-date and running optimally. This may include software updates, security patches, and troubleshooting errors. A monitoring system must also be implemented to keep track of any issues that may arise.
 
 
