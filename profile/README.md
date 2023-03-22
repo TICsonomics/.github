@@ -41,7 +41,7 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ____
-# Project_Overview 
+# Project_Overview :microscope:
 
 Welcome to our project on analyzing cryptocurrency data for trading purposes! In this project, we aim to process historical data of cryptocurrencies to identify patterns and trends within their behavior, and use this information to make informed trading decisions.
 
@@ -55,7 +55,7 @@ In this project, we created a system that processes historical data  of the beha
 
 
 
-# Introduction
+# Introduction :checkered_flag:
 ---
 Cryptocurrencies have experienced rapid growth and adoption since the creation of Bitcoin in 2009 by Satoshi Nakamoto. This innovative digital money system emerged as a decentralized alternative to the traditional financial system, offering fast, secure and low-cost transactions. Over the years, the cryptocurrency ecosystem has evolved, giving rise to thousands of digital coins and tokens, with XRP being one of the best-known cryptocurrencies with the highest market capitalization.   
 In the current context of 2023, the importance of studying cryptocurrencies has become even more relevant, due to recent events in the traditional financial system. Just a week ago, two big banks, Silvergate and Silicon Valley Bank, went out of business, and Credit Suisse is facing serious financial problems. These events have generated uncertainty in the financial sphere and have led to an increase in interest in cryptocurrencies as a more solid and decentralized alternative.  
@@ -65,7 +65,7 @@ The specific tools for the development and deployment of the project will be lef
 In summary, the importance of studying cryptocurrencies lies in their potential as a decentralized and solid alternative to the traditional financial system, especially in times of economic uncertainty. The TICSonomics project aims to seize this opportunity to develop an artificial intelligence model that facilitates the analysis of the XRP cryptocurrency and supports investors in making informed decisions.
 
 
-:snowflake:# Justification
+# Justification :telescope:
 ---
 The comparison between the TICSonomics project and existing alternatives such as TradingView, TrendSpider, Koyfin, among others, lies mainly in the focus and automation of technical analysis. These existing platforms offer a wide range of tools and charts to perform fundamental and technical analysis of different assets, including cryptocurrencies. However, these tools require users to perform the analysis manually, which can result in a slower and error-prone process due to human subjectivity.  
 The main benefit of a tool like TICSonomics, which automates technical analysis based on indicators and uses artificial intelligence, is the ability to process and analyze large amounts of data, quickly and efficiently. This automation allows users to focus on making informed decisions instead of spending time and effort manually analyzing data.  
@@ -74,7 +74,7 @@ Another benefit of TICSonomics is the possibility of customizing and adapting th
 However, it is important to note that manual fundamental and technical analysis tools remain valuable for investors who prefer a more controlled and detailed approach to their investment strategy. TICSonomics does not intend to completely replace these platforms, but to complement them and offer a more automated and AI-based solution for those looking to optimize their cryptocurrency investments.  
 In short, TICSonomics sets itself apart from current alternatives by offering an automated, AI-based solution for cryptocurrency technical analysis. This can result in faster and more accurate decision making, as well as a more personalized and adaptable approach for investors compared to the manual tools offered by platforms such as TradingView, TrendSpider, and Koyfin.
 
-# Goals
+# Goals :golf:
 ---
 Facilitate and accelerate the decision making of minority investors in the cryptocurrency market, especially in volatile environments and subject to market manipulation.
 
@@ -91,7 +91,7 @@ Customize and adapt the artificial intelligence model to the specific needs of e
 Integrate and complement existing technical and fundamental analysis tools, offering a more complete and efficient solution for investors interested in the cryptocurrency market.
 
 
-# Objectives_of_each_Phase
+# Objectives_of_each_Phase :pushpin:
 ---
 ##### Phase 1: Data Acquisition
 Obtain data on the XRP cryptocurrency from Coin Market Cap api.
@@ -142,7 +142,7 @@ Pattern Identification: Once we have applied the indices, we will use them to id
 # Web_Platform
 ---
 
-# Deployment
+# Deployment :calendar:
 ---
 Creation of container images  
 We start creating  container images for each of the subsystems. It must be ensured that the images are compatible with the deployment environment and meet the system requirements. A version control system like Git can be used to manage code and configurations.
@@ -158,7 +158,7 @@ Once the system is in production, it must be ensured that it remains up-to-date 
 
 
 
-# Libreries
+# Libreries :pencil2:
 ---
 * [Python 3](https://www.python.org/)
 * Linux Ubuntu    64-bit
