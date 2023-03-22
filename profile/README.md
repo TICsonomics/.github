@@ -74,7 +74,7 @@ Another benefit of TICSonomics is the possibility of customizing and adapting th
 However, it is important to note that manual fundamental and technical analysis tools remain valuable for investors who prefer a more controlled and detailed approach to their investment strategy. TICSonomics does not intend to completely replace these platforms, but to complement them and offer a more automated and AI-based solution for those looking to optimize their cryptocurrency investments.  
 In short, TICSonomics sets itself apart from current alternatives by offering an automated, AI-based solution for cryptocurrency technical analysis. This can result in faster and more accurate decision making, as well as a more personalized and adaptable approach for investors compared to the manual tools offered by platforms such as TradingView, TrendSpider, and Koyfin.
 
-#### Goals
+# Goals
 ---
 Facilitate and accelerate the decision making of minority investors in the cryptocurrency market, especially in volatile environments and subject to market manipulation.
 
