@@ -2,8 +2,9 @@
 ---
 🧙 Welcome to our GitHub org
 
-"Final Project",UNAM (https://www.unam.mx/) -TICs-Distributed Computing 2023-1 class
+"Final Project",UNAM (https://www.unam.mx/) -TICs-Distributed Computing 2023-1 class  
 
+Welcome to our  crypto-trading AI Platform! In this project, we aim to process historical data of cryptocurrencies to identify patterns and trends within their behavior, to understand their behavior in the market, identify trends and make informed decisions in the field of investment. Through the analysis of prices and other relevant indicators, such as RSI, MACD, volume, Parabolic Sar and Bollinger bands, machine learning models can be generated to predict the future behavior of cryptocurrencies and offer useful recommendations for investors.and use this information to make informed trading decisions.
 
 ____
 # Team_Members :family:
@@ -26,11 +27,11 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 ____
 # Introduction :microscope:
 
-Welcome to our project on analyzing cryptocurrency data for trading purposes! In this project, we aim to process historical data of cryptocurrencies to identify patterns and trends within their behavior, to understand their behavior in the market, identify trends and make informed decisions in the field of investment. Through the analysis of prices and other relevant indicators, such as RSI, MACD, volume, Parabolic Sar and Bollinger bands, machine learning models can be generated to predict the future behavior of cryptocurrencies and offer useful recommendations for investors.and use this information to make informed trading decisions.
+
 
 The world of cryptocurrency is highly volatile, with prices fluctuating wildly within a matter of hours. To be successful in this space, traders must have a deep understanding of the behavior of each cryptocurrency they are trading. This is where data analysis comes in - by analyzing large amounts of historical data, we can identify patterns and trends that may not be visible through simple observation.
 
-We have chosen to focus on several key indices, including: IRS, Pivot Point, Fibonacci retracement, EMA, and stochastic oscillator, as these indices have proven to be effective in predicting market trends and making informed trading decisions. By calculating these indices for various cryptocurrencies, we can identify potential entry and exit points for trades, and make more profitable trading decisions.
+We have chosen to focus on several key indices, including: IRS,  Fibonacci retracement as these indices have proven to be effective in predicting market trends and making informed trading decisions. By calculating these indices for our univariate cripto system, we can identify potential entry and exit points for trades, and make more profitable trading decisions.
 
 The TICSonomics project will focus on the analysis of the XRP cryptocurrency from August 2013 to date, using the information provided by the Coingecko API. The main objective is to create an artificial intelligence model that processes and stores this data to make decisions based on machine learning techniques and, finally, deploy the model in a web app accessible to users. 
 In this project, we created a system that processes historical data  of the behavior of the XRP cryptocurrency price and then sends it to our website. The project is divided into 5 phases, each with its own objectives and challenges.
@@ -40,11 +41,34 @@ In this project, we created a system that processes historical data  of the beha
 # Justification :telescope:
 ---
 The comparison between the TICSonomics project and existing alternatives such as TradingView, TrendSpider, Koyfin, among others, lies mainly in the focus and automation of technical analysis. These existing platforms offer a wide range of tools and charts to perform fundamental and technical analysis of different assets, including cryptocurrencies. However, these tools require users to perform the analysis manually, which can result in a slower and error-prone process due to human subjectivity.  
-The main benefit of a tool like TICSonomics, which automates technical analysis based on indicators and uses artificial intelligence, is the ability to process and analyze large amounts of data, quickly and efficiently. This automation allows users to focus on making informed decisions instead of spending time and effort manually analyzing data.  
-In addition, the incorporation of artificial intelligence in the TICSonomics project provides a competitive advantage over current alternatives. By using machine learning techniques to analyze data and predict the future behavior of cryptocurrencies, TICSonomics can offer more accurate and timely recommendations, improving investment performance.  
-Another benefit of TICSonomics is the possibility of customizing and adapting the artificial intelligence model to the specific needs of each user. As the model learns and adapts over time, its accuracy and relevance can improve, offering a more personalized and effective approach compared to standard manual tools available on platforms like TradingView or Koyfin.  
-However, it is important to note that manual fundamental and technical analysis tools remain valuable for investors who prefer a more controlled and detailed approach to their investment strategy. TICSonomics does not intend to completely replace these platforms, but to complement them and offer a more automated and AI-based solution for those looking to optimize their cryptocurrency investments.  
-In short, TICSonomics sets itself apart from current alternatives by offering an automated, AI-based solution for cryptocurrency technical analysis. This can result in faster and more accurate decision making, as well as a more personalized and adaptable approach for investors compared to the manual tools offered by platforms such as TradingView, TrendSpider, and Koyfin.
+TICSonomics sets itself apart from current alternatives by offering an automated, AI-based solution for cryptocurrency technical analysis. This can result in faster and more accurate decision making, as well as a more personalized and adaptable approach for investors compared to the manual tools offered by platforms such as TradingView, TrendSpider, and Koyfin.
+
+# "Cryptocurrency Analysis: Mini Historical Overview and Essential Concepts":chart_with_upwards_trend:
+---
+### what are cryptocurrencies?  
+
+A crypto a digital currency that uses cryptography to secure and verify transactions and to control the creation of new units. Cryptocurrencies are based on a technology called blockchain, which is a distributed and decentralized database that securely records all transactions.
+Cryptocurrencies  offer several advantages over traditional fiat currencies. Firstly, cryptocurrencies allow for secure and fast transactions with low transaction fees. Unlike traditional fiat currencies, cryptocurrencies are not controlled by any government or central authority, which means that transactions can be processed faster and more securely, and are not subject to inflation or manipulation by central banks.
+Cryptocurrencies matter because they offer a secure, fast, and efficient way to transact and transfer value globally, as well as a potential investment opportunity.
+
+### Who and how is determined the value of any crypto?  
+
+Like any other financial asset, the price of a cryptocurrency fluctuates based on the supply and demand of investors who buy and sell the currency on exchange markets.  
+
+One key factor that influences the value of a cryptocurrency is its market capitalization (market cap). The market cap of a cryptocurrency is calculated by multiplying the current price of the cryptocurrency by the total number of coins in circulation. This metric provides an estimate of the relative size of the cryptocurrency in the market. Generally, the higher the market capitalization of a cryptocurrency, the higher its price, although this is not always the case.  
+
+In addition to market capitalization, other factors that can influence the value of a cryptocurrency include:  
+
+- The adoption and actual use of the cryptocurrency by businesses and consumers.
+- The strength of the technology and security of the network on which the cryptocurrency is based.
+- News and events related to the cryptocurrency and its underlying technology, such as protocol updates, security breaches, and government regulations.
+- The market's perception of the value and utility of the cryptocurrency relative to other cryptocurrencies and financial assets.  
+
+It is important to note that the value of cryptocurrencies can be extremely volatile due to the speculative nature of the cryptocurrency market. Therefore, investors should conduct their own research and analysis before investing in any cryptocurrency.
+
+## Transactional Cycle overview   :round_pushpin:  
+
+
 
 
 
