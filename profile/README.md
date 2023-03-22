@@ -65,7 +65,7 @@ The specific tools for the development and deployment of the project will be lef
 In summary, the importance of studying cryptocurrencies lies in their potential as a decentralized and solid alternative to the traditional financial system, especially in times of economic uncertainty. The TICSonomics project aims to seize this opportunity to develop an artificial intelligence model that facilitates the analysis of the XRP cryptocurrency and supports investors in making informed decisions.
 
 
-#:snowflake: Justification
+:snowflake:# Justification
 ---
 The comparison between the TICSonomics project and existing alternatives such as TradingView, TrendSpider, Koyfin, among others, lies mainly in the focus and automation of technical analysis. These existing platforms offer a wide range of tools and charts to perform fundamental and technical analysis of different assets, including cryptocurrencies. However, these tools require users to perform the analysis manually, which can result in a slower and error-prone process due to human subjectivity.  
 The main benefit of a tool like TICSonomics, which automates technical analysis based on indicators and uses artificial intelligence, is the ability to process and analyze large amounts of data, quickly and efficiently. This automation allows users to focus on making informed decisions instead of spending time and effort manually analyzing data.  
