@@ -68,7 +68,10 @@ It is important to note that the value of cryptocurrencies can be extremely vola
 
 ## Transactional Cycle overview   :round_pushpin:  
 
+Exchanges usually follow the price of the cryptocurrency on its respective blockchain, as this is the real price of the cryptocurrency.  
 
+In the case of XRP, the price is established on its blockchain, and exchanges that offer XRP rely on that price to determine its value. That is, it is not the exchange that determines the price of the cryptocurrency, but rather follows it through its blockchain.
+Exchanges can set their own fees, but they generally adhere to market standards to avoid losing competitiveness. Regulation regarding exchange fees varies by country, but maximum limits are typically established to protect users from abusive prices."
 
 
 
