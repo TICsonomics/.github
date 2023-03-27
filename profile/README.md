@@ -10,7 +10,7 @@ ____
 # Team_Members :family:
 
 * José Ignacio Ireta. ([}ignacio-ireta](https://github.com/ignacio-ireta))
-* Lucrecia Beltz. . ([LucreciaBeltz](https://github.com/LucreciaBeltz))
+* María Lucrecia Beltz González ([LucreciaBeltz](https://github.com/LucreciaBeltz))
 * Gerardo. . ([ZabdielZ](https://github.com/ZabdielZ))
 * Miguel Ángel Zamorano Presa. ([miguelzpresa](https://github.com/miguelzpresa))
 
@@ -125,6 +125,17 @@ Pattern Identification: Once we have applied the indices, we will use them to id
 
 # Web_Platform :european_castle:
 ---
+The Web Platform for this phase is designed to provide users with an interactive platform for analyzing historical data on various cryptocurrencies. The web app provides a variety of visualizations and analytical tools that allow users to gain insights into the behavior of different cryptocurrencies over time.
+
+The web app is built on the [Dash](https://dash.plotly.com/) framework, which is a Python low-code framework for building web applications. The web app uses a combination of Python, HTML, CSS, and JavaScript to provide users with an interactive and responsive experience.
+
+These Website will include:
+
+- Interactive price charts for various cryptocurrencies
+- Customizable timeframes for analyzing data
+- Price change percentage and volume data visualization
+- Detailed price and volume data table
+- User-friendly interface for easy navigation
 
 # Deployment :calendar:
 ---
