@@ -11,7 +11,7 @@ ____
 
 * José Ignacio Ireta. ([}ignacio-ireta](https://github.com/ignacio-ireta))
 * María Lucrecia Beltz González ([LucreciaBeltz](https://github.com/LucreciaBeltz))
-* Gerardo. . ([ZabdielZ](https://github.com/ZabdielZ))
+* Gerardo Zabdiel Martinez Zavala ([ZabdielZ](https://github.com/ZabdielZ))
 * Miguel Ángel Zamorano Presa. ([miguelzpresa](https://github.com/miguelzpresa))
 
 ____
