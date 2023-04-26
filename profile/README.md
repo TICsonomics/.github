@@ -74,7 +74,13 @@ In the case of XRP, the price is established on its blockchain, and exchanges th
 Exchanges can set their own fees, but they generally adhere to market standards to avoid losing competitiveness. Regulation regarding exchange fees varies by country, but maximum limits are typically established to protect users from abusive prices."
 
 
+# Arquitecture 
+---
+![Arquitecture ](https://github.com/TICsonomics/.github/blob/main/arqui.png)
 
+
+
+---
 # Objectives_of_each_Phase :pushpin:
 ---
 ##### Phase 1: Data Acquisition
