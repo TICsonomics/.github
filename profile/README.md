@@ -75,7 +75,9 @@ Exchanges can set their own fees, but they generally adhere to market standards 
 
 
 # Arquitecture 
----![Ticsonomics2](https://user-images.githubusercontent.com/49998408/235947841-546d5102-c31b-45aa-b5fa-b740fa0e50f9.png)
+---
+![Ticsonomics3](https://user-images.githubusercontent.com/49998408/235953488-cd66a44e-d091-4f80-9492-25d41af656b9.png)
+
 
 
 
@@ -164,8 +166,6 @@ Monitoring and maintenance of the system
 Once the system is in production, it must be ensured that it remains up-to-date and running optimally. This may include software updates, security patches, and troubleshooting errors. A monitoring system must also be implemented to keep track of any issues that may arise.
 #L
 ---
-![L](https://github.com/TICsonomics/.github/blob/main/Ticsonomics.png)
-![Ticsonomics](https://user-images.githubusercontent.com/49998408/235947223-808e8bc7-310c-4ab3-80e5-9a60459dd56f.png)
 
 # Libraries :pencil2:
 ---
