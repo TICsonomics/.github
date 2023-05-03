@@ -76,7 +76,7 @@ Exchanges can set their own fees, but they generally adhere to market standards 
 
 # Arquitecture 
 ---
-![Ticsonomics4](https://user-images.githubusercontent.com/49998408/235956662-cc8ca36c-4fa7-4136-9b57-3f8271f2a979.png)
+![Ticsonomics4](https://github.com/TICsonomics/.github/blob/main/Ticsonomics(1).png)
 
 
 
