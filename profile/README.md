@@ -156,7 +156,9 @@ After the containers have been deployed correctly, the system must be configured
 
 Monitoring and maintenance of the system  
 Once the system is in production, it must be ensured that it remains up-to-date and running optimally. This may include software updates, security patches, and troubleshooting errors. A monitoring system must also be implemented to keep track of any issues that may arise.
-
+#L
+---
+![L](https://github.com/TICsonomics/.github/blob/main/Ticsonomics.png)
 
 
 # Libraries :pencil2:
