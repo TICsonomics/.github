@@ -193,5 +193,4 @@ Once the system is in production, it must be ensured that it remains up-to-date 
 # References :peach:
 ---
 
-https://es.cointelegraph.com/news/the-resurgence-and-consolidation-of-bitcoin-within-the-global-economy
-![Ticsonomics](https://user-images.githubusercontent.com/49998408/235947223-808e8bc7-310c-4ab3-80e5-9a60459dd56f.png)
+
