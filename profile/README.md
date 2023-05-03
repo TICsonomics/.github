@@ -75,8 +75,14 @@ Exchanges can set their own fees, but they generally adhere to market standards 
 
 
 # Arquitecture 
+---![Ticsonomics2](https://user-images.githubusercontent.com/49998408/235947841-546d5102-c31b-45aa-b5fa-b740fa0e50f9.png)
+
+
+
+
 ---
-![Arquitecture ](https://github.com/TICsonomics/.github/blob/main/arqui.png)
+![Arquitecture![Ticsonomics](https://user-images.githubusercontent.com/49998408/235947042-753ae6b7-6e1d-4283-86d0-2e6fe7e9cbe9.png)
+ ](https://github.com/TICsonomics/.github/blob/main/arqui.png)
 
 
 
@@ -159,7 +165,7 @@ Once the system is in production, it must be ensured that it remains up-to-date 
 #L
 ---
 ![L](https://github.com/TICsonomics/.github/blob/main/Ticsonomics.png)
-
+![Ticsonomics](https://user-images.githubusercontent.com/49998408/235947223-808e8bc7-310c-4ab3-80e5-9a60459dd56f.png)
 
 # Libraries :pencil2:
 ---
@@ -186,3 +192,4 @@ Once the system is in production, it must be ensured that it remains up-to-date 
 ---
 
 https://es.cointelegraph.com/news/the-resurgence-and-consolidation-of-bitcoin-within-the-global-economy
+![Ticsonomics](https://user-images.githubusercontent.com/49998408/235947223-808e8bc7-310c-4ab3-80e5-9a60459dd56f.png)
