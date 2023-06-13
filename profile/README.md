@@ -232,10 +232,15 @@ This deployment process enables easy access to image and CSV URLs associated wit
 
 
 
-
+---
 # Executing_Software_Intructions :surfer:
 ---
-# Conclusions:
+1. clone the deployment repo
+2. open the cron-instructions.txt file and follow its instructions
+3. execute deployer.sh
+
+---
+# Conclusions: :pencil2:
 The project aimed to develop a data acquisition system for cryptocurrency market data. The main objectives were to fetch data from an CoinGecko API, process it, store it in a database, and provide the ability to request image and CSV URLs associated with the data.  
 
 Throughout the project, several key components and technologies were utilized. These included the API client, database management, deployment scripts, Docker, Python, Pandas, Matplotlib, Numpy, Git, and Cron.  
