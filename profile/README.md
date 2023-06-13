@@ -75,7 +75,7 @@ Exchanges can set their own fees, but they generally adhere to market standards 
 
 # Arquitecture 
 ---
-![Ticsonomics4](https://github.com/TICsonomics/.github/blob/main/Ticsonomics(1).png)
+![Ticsonomics](https://github.com/TICsonomics/.github/assets/49998408/476b4645-7f88-4f7f-97d0-aa672284d929)
 
 
 
@@ -84,8 +84,7 @@ Exchanges can set their own fees, but they generally adhere to market standards 
 
 
 ---
-![Arquitecture![Ticsonomics](https://user-images.githubusercontent.com/49998408/235947042-753ae6b7-6e1d-4283-86d0-2e6fe7e9cbe9.png)
- ](https://github.com/TICsonomics/.github/blob/main/arqui.png)
+
 
 
 
@@ -264,4 +263,5 @@ https://github.com/jealous/stockstats
 https://docs.sqlalchemy.org/en/20/
 https://www.coingecko.com/en/api/documentation  
 https://docs.docker.com/desktop/
+
 
