@@ -172,12 +172,6 @@ Output:
 The generated charts and processed data files are saved in the images_output and pdfs_output directories, respectively, within the same directory as the script.  Overall, this processor system offers a way to retrieve, process, and visualize cryptocurrency price data using various indicators, facilitating technical analysis and research.
 
 
----
-##### Methodology:
----
-Exploratory Data Analysis (EDA) : We will begin by performing exploratory data analysis of the provided historical data to identify any trends or patterns in the time series data. This will involve visualizing the data, analyzing the distribution of the data, and identifying any outliers or anomalies.
-
-Statistical Techniques: We plan to use a variety of statistical techniques to analyze the time series data, including time series decomposition, autocorrelation analysis, and statistical modeling. These techniques will help us to identify any trends, seasonal patterns, or other time-dependent relationships within the data.
 
 Applying Indices: We will apply various indices such as IRS_14,MACD ,ppsr, and stochastic oscillator to the time series data at different time frames (e.g., daily, weekly, monthly, etc.). This will help us to identify potential entry and exit points for trades, as well as to identify patterns of trend, consolidation, resistance breakthroughs, and momentum.
 
