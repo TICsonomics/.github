@@ -4,7 +4,7 @@
 
 "Final Project",UNAM (https://www.unam.mx/) -TICs-Distributed Computing 2023-1 class  
 
-Welcome to our  crypto-trading AI Platform! In this project, we aim to process historical data of cryptocurrencies to identify patterns and trends within their behavior, to understand their behavior in the market, identify trends and make informed decisions in the field of investment. Through the analysis of prices and other relevant indicators, such as RSI, MACD, volume, Parabolic Sar and Bollinger bands, machine learning models can be generated to predict the future behavior of cryptocurrencies and offer useful recommendations for investors.and use this information to make informed trading decisions.
+Welcome to our  crypto-trading AI Platform! In this project, we aim to process historical data of cryptocurrencies to identify patterns and trends within their behavior, to understand their behavior in the market, identify trends and make informed decisions in the field of investment. Through the analysis of prices and other relevant indicators, such as RSI_14, MACD, Stochastic Oscillator & PPSR(ivot Points, Supports, and Resistances ),offer useful recommendations for investors.and use this information to make informed trading decisions.
 
 ____
 # Team_Members :family:
