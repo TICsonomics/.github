@@ -1,17 +1,16 @@
-# Hi,we´re Ticsonomics 👋
+# Hi, we're Ticsonomics 👋
 ---
-🧙 Welcome to our GitHub org
+🧙 Welcome to our GitHub
 
-"Final Project",UNAM (https://www.unam.mx/) -TICs-Distributed Computing 2023-1 class  
+Final project for the Distributed Computing subject, at ENES' Morelia B. Sc. Program "Tecnologías para la Información en Ciencias" (https://www.enesmorelia.unam.mx/)
 
-Welcome to our  crypto-trading AI Platform! In this project, we aim to process historical data of cryptocurrencies to identify patterns and trends within their behavior, to understand their behavior in the market, identify trends and make informed decisions in the field of investment. Through the analysis of prices and other relevant indicators, such as RSI_14, MACD, Stochastic Oscillator & PPSR(ivot Points, Supports, and Resistances ),offer useful recommendations for investors.and use this information to make informed trading decisions.
+Welcome to our  crypto-trading AI Platform! In this project, we aim to process historical data of cryptocurrencies to identify patterns and trends within their behavior, to understand their behavior in the market, identify trends and make informed decisions in the field of investment. Through the analysis of prices and other relevant indicators, such as KDJK, MACD, PPSR, and MACD, offer useful insights for investors, and allow them to use this information to make informed trading decisions.
 
 ____
 # Team_Members :family:
 
-* José Ignacio Ireta. ([}ignacio-ireta](https://github.com/ignacio-ireta))
+* José Ignacio Ireta. ([ignacio-ireta](https://github.com/ignacio-ireta))
 * María Lucrecia Beltz González ([LucreciaBeltz](https://github.com/LucreciaBeltz))
-
 * Miguel Ángel Zamorano Presa. ([miguelzpresa](https://github.com/miguelzpresa))
 
 ____
@@ -94,7 +93,7 @@ Exchanges can set their own fees, but they generally adhere to market standards 
 # Objectives_of_each_Phase :pushpin:
 ---
 ##### Phase 1: Data Acquisition
-Obtain data on the XRP cryptocurrency from Coin Market Cap api.
+Obtain data on the XRP cryptocurrency from CoinGecko api.
 Standardize the obtained data for use in the system.
 ##### Phase 2: Database System
 Design and configure a suitable database for storing the obtained data.
@@ -219,16 +218,17 @@ This deployment process enables easy access to image and CSV URLs associated wit
 
 # Packages :triangular_flag_on_post:  
 ---
-* [Pandas    version 1.4.1](https://pandas.pydata.org/)
+* [Pandas version 1.4.1](https://pandas.pydata.org/)
 * [Matplotlib version 3.2.2](https://matplotlib.org/)
-* [Numpy      version 1.21.5](https://numpy.org/) 
-* [poetry     version](https://python-poetry.org)
-* [Docker     version](https://www.docker.com)
+* [Numpy version 1.21.5](https://numpy.org/) 
+* [Docker Compose version v2.18.1](https://www.docker.com)
 * [requests](https://docs.python-requests.org/)
 * [mplfinance==0.12.9b7](https://pypi.org/project/mplfinance/)
 * [psycopg2_binary==2.9.6](https://pypi.org/project/psycopg2-binary/)
 * [SQLAlchemy==1.4.39](https://www.sqlalchemy.org/)
 * [stockstats==0.5.2](https://pypi.org/project/stockstats/)
+* [requests==2.31.0](https://pypi.org/project/requests/)
+* 
 
 
 
