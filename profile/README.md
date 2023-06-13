@@ -32,7 +32,7 @@ The world of cryptocurrency is highly volatile, with prices fluctuating wildly w
 
 We have chosen to focus on several key indices, including: RSI_14, MACD, Stochastic Oscillator & PPSR(ivot Points, Supports, and Resistances )as these indices have proven to be effective in predicting market trends and making informed trading decisions. By calculating these indices for our univariate cripto system, we can identify potential entry and exit points for trades, and make more profitable trading decisions.
 
-The TICSonomics project will focus on the analysis of the XRP cryptocurrency  using the information provided by the Coingecko API. The main objective is to create an artificial intelligence model that processes and stores this data to make decisions based on machine learning techniques and, finally, deploy the model in a web app accessible to users. 
+The TICSonomics project will focus on the analysis of the XRP cryptocurrency  using the information provided by the Coingecko API. The main objective is to create an a system  that processes and stores this data to make decisions based on Technical Analysis and, finally, deploy the service in a web app accessible to users. 
 In this project, we created a system that processes historical data  of the behavior of the XRP cryptocurrency price and then sends it to our website. The project is divided into 5 phases, each with its own objectives and challenges.
 
 
